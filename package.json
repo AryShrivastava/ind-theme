@@ -1,0 +1,32 @@
+{
+  "name": "ind-theme",
+  "displayName": "IND Theme AryS",
+  "description": "A theme inspired from patriotism.",
+  "publisher": "AryShrivastava",
+  "author": {
+    "name": "Arya Shrivastava"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.52.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AryShrivastava/ind-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/AryShrivastava/ind-theme/issues"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "IND Theme AryS",
+        "uiTheme": "vs-dark",
+        "path": "./themes/IND Theme-color-theme.json"
+      }
+    ]
+  }
+}
